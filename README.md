@@ -30,5 +30,22 @@
 - **TCP Sockets:** Ensures reliable communication between client and server.
 - **GUI:** Both client and server have graphical interfaces.
 - **Error Handling:** Ensures smooth operation and clean shutdowns.
+
+## How to Run
+### Server Setup:
+
+- **Navigate to the Server directory.**
+- **Run the server application.**
+- **Enter the desired port number in the Server GUI to start listening for client connections.**
+### Client Setup:
+
+- **Navigate to the Client directory.**
+- **Run the client application.**
+- **Enter the server’s IP address and port number in the Client GUI.**
+- **Connect using a unique username.**
+### Usage:
+
+- **Use the GUI to post sweets, follow/block users, view sweet feeds, and manage user interactions.**
+
 ### Conclusion
 Switter is a user-friendly social networking application with features for posting, following, and managing sweets, leveraging TCP sockets and graphical interfaces for a seamless experience.
